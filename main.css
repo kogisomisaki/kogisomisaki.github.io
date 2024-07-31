@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+header > nav > ul {
+    list-style: none;
+}
+
+
+.head > div {
+    background: #9932cc;
+}
+
+
+header {
+    background: #ffc0cb;
+    grid-area: header-A;
+}
+
+article {
+    background: #dda0dd;
+    grid-area: main-A;
+}
+
+aside {
+    background: #9370db;
+    grid-area: aside-A;
+}
+
+section {
+    background: #2bffff;
+    grid-area: footer-A;
+}
+
+.text{
+    color:rgb(255, 22, 53)
+}
+
+.text2{
+    color:rgb(56, 3, 155)
+}
+
+.text3{
+    color:deeppink
+}
